@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:47:09.742Z",
+  "generated_at": "2026-11-23T18:47:12.716Z",
   "items": {
     "problem:119": {
       "kind": "problem",
@@ -91,6 +91,84 @@
       "last_pushed_at": "2026-01-25T16:44:28.919Z",
       "language": "python",
       "lines": 8
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-02-06T06:51:30.489Z",
+      "last_pushed_at": "2026-02-06T06:51:30.489Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-02-06T07:12:21.240Z",
+      "last_pushed_at": "2026-02-06T07:12:21.240Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-02-06T07:29:52.599Z",
+      "last_pushed_at": "2026-02-06T07:29:52.599Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2026-02-06T07:49:08.426Z",
+      "last_pushed_at": "2026-02-06T07:49:08.426Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2026-02-06T11:41:45.558Z",
+      "last_pushed_at": "2026-02-06T11:41:45.558Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-02-06T11:50:20.006Z",
+      "last_pushed_at": "2026-02-06T11:50:20.006Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
