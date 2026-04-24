@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T18:47:21.183Z",
+  "generated_at": "2026-11-23T18:47:23.614Z",
   "items": {
     "problem:119": {
       "kind": "problem",
@@ -234,6 +234,32 @@
       "last_pushed_at": "2026-03-30T07:54:29.158Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-04-24T16:58:00.516Z",
+      "last_pushed_at": "2026-04-24T16:58:00.516Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-04-24T17:56:57.749Z",
+      "last_pushed_at": "2026-04-24T17:56:57.749Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
